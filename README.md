@@ -4,20 +4,6 @@ For evaluation, the `f_same` measure and Jaccard index were calculated by compar
 
 ## References
 
-```bibtex
-@article{raghavan2007near,
-  title={Near linear time algorithm to detect community structures in large-scale networks},
-  author={Raghavan, Usha Nandini and Albert, Réka and Kumara, Soundar},
-  journal={arXiv preprint arXiv:0709.2938},
-  year={2007}
-}
+[1] U. N. Raghavan, R. Albert, and S. Kumara, “Near linear time algorithm to detect community structures in large-scale networks,” arXiv:0709.2938, 2007.
 
-@article{zachary1977information,
-  title={An Information Flow Model for Conflict and Fission in Small Groups},
-  author={Zachary, Wayne W.},
-  journal={Journal of Anthropological Research},
-  volume={33},
-  number={4},
-  pages={452--473},
-  year={1977}
-}
+[2] W. W. Zachary, “An Information Flow Model for Conflict and Fission in Small Groups,” Journal of Anthropological Research, vol. 33, no. 4, pp. 452–473, 1977.
